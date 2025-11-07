@@ -59,7 +59,7 @@ All my Tripleten project from my Data Scientist Bootcamps.
 ## 🌐 Find Me Here:  
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/marcelo-bazaldua-morales-049b81122/)  
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/dedguyseis)  
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/macncheese-ds)  
 - [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/depressive.cowboy.555/)  
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/macncheese_2001/)  
 - [![X](https://img.shields.io/badge/-X-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/Double_M_555)  
