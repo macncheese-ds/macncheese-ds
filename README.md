@@ -1,70 +1,75 @@
+<div align="center">
+  <img src="./Assets/banner.png" width="100%" alt="Banner" />
+</div>
 
-![Banner](./Assets/banner.png)
+<br />
 
-I'm a **passionate developer** with experience in **Python and Java** and currently working on exciting projects like **Service Cancellation Prediction**.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Marcelo Bazaldua Morales"
+        self.alias = "macncheese-ds"
+        self.role = "Data Scientist & Developer"
+        self.location = "Mexico"
+        self.status = "Building the future, one line at a time."
+        
+    def get_stack(self):
+        return {
+            "languages": ["Python", "Java", "SQL"],
+            "interests": ["Web Development", "3D Modeling", "Cinema"]
+        }
 
----
+me = Developer()
+```
 
-## 🚀 About Me  
+<br />
 
-- 🎓 Currently studying at **Facultad de Sistemas UAdeC**.  
-- 💻 Skilled in **Python, Java, 3D Modeling/Sculpting, and SQL**.  
-- 🌱 Currently learning **Web Development**.  
-- ✨ Enthusiast of **Music**, **Cinema**, and **Web Development**.  
-- 🌎 Location: **Mexico**.  
+<h3 align="center">SYSTEM STATUS: ONLINE</h3>
 
----
+<div align="center">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  
+  <br />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MAYA-3498DB?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" />
+  <img src="https://img.shields.io/badge/ZBRUSH-FF5733?style=for-the-badge&logo=zbrush&logoColor=white" alt="ZBrush" />
 
-## 🌟 Technical Skills  
+</div>
 
-### Programming Languages  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+<br />
 
-### Tools and Frameworks  
+### MISSION LOG
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+| PROJECT | DESCRIPTION | STACK |
+|:---|:---|:---|
+| **[INEGI Census](https://github.com/dedguyseis/INEGI)** | Census management tool with executive dashboards and statistical reporting. | ![Java](https://img.shields.io/badge/Java-MVC-blue?style=flat-square) ![MySQL](https://img.shields.io/badge/DB-MySQL-blue?style=flat-square) |
+| **[Sales Management](https://github.com/macncheese-ds/sales_management)** | Web-based system for sales tracking, inventory, and analytics. | ![Web](https://img.shields.io/badge/Type-Web_App-success?style=flat-square) |
+| **[Customer Churn](https://github.com/macncheese-ds/customer_churn)** | ML model predicting banking customer churn. Optimized for F1 & AUC-ROC. | ![ML](https://img.shields.io/badge/AI-Machine_Learning-orange?style=flat-square) |
+| **[Tripleten Projects](https://github.com/macncheese-ds/Tripleten)** | Collection of Data Science bootcamp projects. | ![DS](https://img.shields.io/badge/Data-Science-purple?style=flat-square) |
 
-### Other  
-![Autodesk Maya](https://img.shields.io/badge/-Autodesk%20Maya-3498DB?logo=autodesk&logoColor=white&style=flat)
-![ZBrush](https://img.shields.io/badge/-ZBrush-FF5733?logo=zbrush&logoColor=white&style=flat)
+<br />
 
----
+### UPLINK
 
-## 🛠️ Featured Projects  
+<div align="center">
 
-### 📊 [INEGI Census Project](https://github.com/dedguyseis/INEGI)  
-A census management tool built using Java, MVC, and MySQL. It features CRUD operations, executive dashboards, and statistical reporting functionalities to analyze population data.
+<a href="https://www.linkedin.com/in/marcelo-bazaldua-morales-049b81122/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/macncheese-ds">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://x.com/Double_M_555">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="mailto:mm131018@hotmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-mm131018@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-### 🛒 [Sales Management System](https://github.com/macncheese-ds/sales_management)  
-A web-based application designed for small businesses, offering capabilities for tracking sales, managing inventory, and generating data-driven analytics.  
-
-### 🌍 [Customer Churn Predictor](https://github.com/macncheese-ds/customer_churn)  
-A machine learning project focused on predicting customer churn in the banking sector, optimized for F1-score and AUC-ROC metrics.
-
-### 📊 [Tripleten Sprint Projects](https://github.com/macncheese-ds/Tripleten)  
-All my Tripleten project from my Data Scientist Bootcamps.
-
----
-
-## 🎯 My Goals  
-
-- 🚀 Expand my expertise in **DevOps** and **Big Data**.  
-- 🤝 Collaborate on **projects with global impact**.  
-- 💡 Learn new technologies like **Artificial Intelligence** and **Blockchain**.  
-
----
-
-## 🌐 Find Me Here:  
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/marcelo-bazaldua-morales-049b81122/)  
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/macncheese-ds)  
-- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/depressive.cowboy.555/)  
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/macncheese_2001/)  
-- [![X](https://img.shields.io/badge/-X-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/Double_M_555)  
-- 📧 Email: **mm131018@hotmail.com**  
-
----
-
-_✨ Always open to learning, collaborating, and creating something amazing._  
+</div>
