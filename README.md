@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./Assets/banner.svg" width="100%" alt="Banner" />
-</div>
+![Banner](./Assets/banner.svg)
 
 <br />
 
