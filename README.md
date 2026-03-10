@@ -1,4 +1,3 @@
-![Banner](./Assets/banner.svg)
 
 <br />
 
@@ -48,8 +47,9 @@ me = Developer()
 |:---|:---|:---|
 | **[INEGI Census](https://github.com/dedguyseis/INEGI)** | Census management tool with executive dashboards and statistical reporting. | ![Java](https://img.shields.io/badge/Java-MVC-blue?style=flat-square) ![MySQL](https://img.shields.io/badge/DB-MySQL-blue?style=flat-square) |
 | **[Sales Management](https://github.com/macncheese-ds/sales_management)** | Web-based system for sales tracking, inventory, and analytics. | ![Web](https://img.shields.io/badge/Type-Web_App-success?style=flat-square) |
-| **[Customer Churn](https://github.com/macncheese-ds/customer_churn)** | ML model predicting banking customer churn. Optimized for F1 & AUC-ROC. | ![ML](https://img.shields.io/badge/AI-Machine_Learning-orange?style=flat-square) |
-| **[Tripleten Projects](https://github.com/macncheese-ds/Tripleten)** | Collection of Data Science bootcamp projects. | ![DS](https://img.shields.io/badge/Data-Science-purple?style=flat-square) |
+| **[Dead Times](https://github.com/macncheese-ds/deadtimes)** | System for managing and tracking downtime analysis. | ![Analytics](https://img.shields.io/badge/Type-Analytics-blue?style=flat-square) |
+| **[Inventario](https://github.com/macncheese-ds/inventario)** | Inventory management system. | ![Management](https://img.shields.io/badge/Type-Management_System-success?style=flat-square) |
+| **[Pastas](https://github.com/macncheese-ds/pastas)** | Project management and organization tool. | ![Tools](https://img.shields.io/badge/Type-Tool-orange?style=flat-square) |
 
 <br />
 
